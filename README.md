@@ -19,7 +19,7 @@ The "Conversation" is a blog website dedicated to empowering individuals to achi
 
 
 
-### Built With
+## Built With
 
 This website was built with
 
@@ -51,7 +51,7 @@ This website was built with
 - Comment section
 
 
-### Installation
+## Installation
 
 To get a local copy up and running follow these simple steps.
 
@@ -66,7 +66,7 @@ To get a local copy up and running follow these simple steps.
    cd Conversation
    ```
 
-   # Now Connecting Database
+   ### Now Connecting Database
 
 4. Open a browser and go to URL “http://localhost/phpmyadmin/”
 5. Then, click on databases tab
