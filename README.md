@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple steps.
 6. Create database naming “blog” and then click on import tab
 7. Click on browse file and select “blog.sql” file which is inside “databasefile” folder
 8. Click on go.
-9. Open a browser and go to URL “http://localhost/htdocs/index.php”
+9. Open a browser and go to URL “http://localhost/Conversation/index.php”
 10. Now signup and login to create a blog.
 
 
