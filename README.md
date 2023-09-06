@@ -68,10 +68,10 @@ To get a local copy up and running follow these simple steps.
 
    ### Now Connecting Database
 
-4. Open a browser and go to URL “http://localhost/phpmyadmin/”
+4. Open phpmyadmin on your browser 
 5. Then, click on databases tab
 6. Create database naming “blog” and then click on import tab
-7. Click on browse file and select “blog.sql” file which is inside “databasefile” folder
+7. Click on browse file and select “blog.sql” file from this repository 
 8. Click on go.
 9. Open a browser and go to URL “http://localhost/Conversation/index.php”
 10. Now signup and login to create a blog.
